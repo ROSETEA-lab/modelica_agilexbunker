@@ -1,2 +1,2 @@
 # modelica_agilexbunker
-Modelica models of the Agilex Bunker robot
+Shared repository for models of the Agilex Bunker Pro robot
